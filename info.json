@@ -1,0 +1,33 @@
+{
+    "cat": [
+        {
+            "life": 7,
+            "name": "panterita",
+            "dmge": 6,
+            "speed": 2.2,
+            "src": "./images/panterita.png"
+        },
+        
+        {
+            "life": 6,
+            "name": "tricolor",
+            "dmge": 8,
+            "speed": 1.2,
+            "src": "./images/tricolor.png"
+        },
+        {
+            "life": 4,
+            "name": "vaquita",
+            "dmge": 9,
+            "speed": 4.1,
+            "src": "./images/vaquita.png"
+        },
+        {
+            "life": 5,
+            "name": "naranjoso",
+            "dmge": 3,
+            "speed": 1.6,
+            "src": "./images/naranjoso.png"
+        }
+    ]
+}
